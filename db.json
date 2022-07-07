@@ -1,0 +1,166 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$8ih5kexVQJOKTgbFrCt4zOu0jUs92chrIfnQmjkyvyXJgQVXCzuQm",
+      "name": "Kenzinho",
+      "state": "Paraná",
+      "city": "Curitiba",
+      "contact": "Liga nóis",
+      "category": "Churrasqueiro",
+      "id": 1
+    },
+    {
+      "email": "kenzinho1@mail.com",
+      "password": "$2a$10$uYlj5biCiRxPFpPSTO7JwOFo6m7xMoT2BBfDLjWPEfCgi.sJmWVZ.",
+      "name": "Kenzinho",
+      "state": "Paraná",
+      "city": "Curitiba",
+      "contact": "Liga nóis",
+      "category": "Churrasqueiro",
+      "id": 2
+    },
+    {
+      "email": "kenzinho2@mail.com",
+      "password": "$2a$10$iAntUDS1eNTQu7JkY4f2cOVZ7OJjBN0tI3/WRz.9i88V2nijRJD2O",
+      "name": "Kenzinho",
+      "state": "Paraná",
+      "city": "Curitiba",
+      "contact": "Liga nóis",
+      "category": "Churrasqueiro",
+      "id": 3
+    },
+    {
+      "email": "kenzinho3@mail.com",
+      "password": "$2a$10$jOXgij8OqFQBSNmIe8CJQOL7PEo7gndW0tT.1rVlYWr9gqQaQ7lgq",
+      "name": "Kenzinho",
+      "state": "Paraná",
+      "city": "Curitiba",
+      "contact": "Liga nóis",
+      "category": "Consumidor",
+      "id": 4
+    },
+    {
+      "email": "kenzinho4@mail.com",
+      "password": "$2a$10$.PW/JGzDt.219djVwOTht.9wMRU5LVxQW7.X4IBuFcL1DiN6vL.9u",
+      "name": "Kenzinho",
+      "state": "Paraná",
+      "city": "Curitiba",
+      "contact": "Liga nóis",
+      "category": "Consumidor",
+      "id": 5
+    }
+  ],
+  "events": [
+    {
+      "userId": 3,
+      "date": "06/11/2022",
+      "duration": 4,
+      "time": 11,
+      "combo": 1,
+      "status": "Aceito",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "date": "06/11/2022",
+      "duration": 4,
+      "time": 11,
+      "combo": 2,
+      "status": "Aceito",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "date": "06/11/2022",
+      "duration": 4,
+      "time": 11,
+      "combo": 2,
+      "status": "Aceito",
+      "id": 3
+    }
+  ],
+  "combos": [
+    {
+      "userId": 1,
+      "price": 400.99,
+      "duration": 3,
+      "quantity": 20,
+      "combo": "Picanha do Jorge",
+      "description": "Churrasco perfeito de picanha acompanhada de linguiça, pão de alho e farofa da casa",
+      "content": [
+        {
+          "food": "Picanha",
+          "quantity": 4
+        },
+        {
+          "food": "Pão de alho",
+          "quantity": 1
+        },
+        {
+          "food": "Linguiça",
+          "quantity": 3
+        },
+        {
+          "food": "Farofa da casa",
+          "quantity": 0
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "price": 400.95,
+      "duration": 3,
+      "quantity": 20,
+      "combo": "Picanha do Jorge Segundo",
+      "description": "Churrasco perfeito de picanha acompanhada de linguiça, pão de alho e farofa da casa",
+      "content": [
+        {
+          "food": "Picanha",
+          "quantity": 4
+        },
+        {
+          "food": "Pão de alho",
+          "quantity": 1
+        },
+        {
+          "food": "Linguiça",
+          "quantity": 3
+        },
+        {
+          "food": "Farofa da casa",
+          "quantity": 0
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "price": 400.99,
+      "duration": 3,
+      "quantity": 20,
+      "combo": "Picanha 2 do Jorge Segundo",
+      "description": "Churrasco perfeito de picanha acompanhada de linguiça, pão de alho e farofa da casa",
+      "content": [
+        {
+          "food": "Picanha",
+          "quantity": 4
+        },
+        {
+          "food": "Pão de alho",
+          "quantity": 1
+        },
+        {
+          "food": "Linguiça",
+          "quantity": 3
+        },
+        {
+          "food": "Farofa da casa",
+          "quantity": 0
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
