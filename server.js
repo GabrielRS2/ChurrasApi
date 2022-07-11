@@ -11,7 +11,8 @@ app.db = router.db;
 const rules = auth.rewriter({
   users: 600,
   events: 644,
-  combos: 644
+  combos: 644,
+  schedule: 660
 });
 
 app.use(cors());

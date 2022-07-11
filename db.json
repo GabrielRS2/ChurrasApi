@@ -100,25 +100,7 @@
       "duration": 3,
       "quantity": 20,
       "combo": "Picanha do Jorge",
-      "description": "Churrasco perfeito de picanha acompanhada de linguiça, pão de alho e farofa da casa",
-      "content": [
-        {
-          "food": "Picanha",
-          "quantity": 4
-        },
-        {
-          "food": "Pão de alho",
-          "quantity": 1
-        },
-        {
-          "food": "Linguiça",
-          "quantity": 3
-        },
-        {
-          "food": "Farofa da casa",
-          "quantity": 0
-        }
-      ],
+      "description": "Churrasco perfeito de picanha acompanhada de linguiça, pão de alho e farofa da casa",,
       "id": 1
     },
     {
@@ -131,25 +113,7 @@
       "duration": 3,
       "quantity": 20,
       "combo": "Picanha do Jorge Segundo",
-      "description": "Churrasco perfeito de picanha acompanhada de linguiça, pão de alho e farofa da casa",
-      "content": [
-        {
-          "food": "Picanha",
-          "quantity": 4
-        },
-        {
-          "food": "Pão de alho",
-          "quantity": 1
-        },
-        {
-          "food": "Linguiça",
-          "quantity": 3
-        },
-        {
-          "food": "Farofa da casa",
-          "quantity": 0
-        }
-      ],
+      "description": "Churrasco perfeito de picanha acompanhada de linguiça, pão de alho e farofa da casa",,
       "id": 2
     },
     {
@@ -162,26 +126,26 @@
       "duration": 3,
       "quantity": 20,
       "combo": "Picanha 2 do Jorge Segundo",
-      "description": "Churrasco perfeito de picanha acompanhada de linguiça, pão de alho e farofa da casa",
-      "content": [
-        {
-          "food": "Picanha",
-          "quantity": 4
-        },
-        {
-          "food": "Pão de alho",
-          "quantity": 1
-        },
-        {
-          "food": "Linguiça",
-          "quantity": 3
-        },
-        {
-          "food": "Farofa da casa",
-          "quantity": 0
-        }
-      ],
+      "description": "Churrasco perfeito de picanha acompanhada de linguiça, pão de alho e farofa da casa",,
       "id": 3
+    }
+  ],
+  "schedule": [
+    {
+      "userId": 2,
+      "data": "22/10/2022",
+      "period": "diurno",
+      "isEvent": true,
+      "eventId": 1,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "data": "22/10/2022",
+      "period": "diurno",
+      "isEvent": false,
+      "eventId": false,
+      "id": 1
     }
   ]
 }
